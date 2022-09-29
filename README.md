@@ -52,7 +52,6 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ![prob exp1 jg_Moment](https://user-images.githubusercontent.com/94154854/192947916-9505eac7-ab24-49e4-aa9e-de525b5f1e9d.jpg)
 
 
-
 # Program :
 ```
 import numpy as np
